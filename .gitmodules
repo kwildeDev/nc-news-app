@@ -1,6 +1,0 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/kwildeDev/fe-nc-news.git
-[submodule "backend"]
-	path = backend
-	url = https://github.com/kwildeDev/be-nc-news.git
